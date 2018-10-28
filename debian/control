@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: BPmono.h
-Description: BPmono font for DisplayCore
+Description: BPmono
